@@ -37,3 +37,5 @@ yarn.lock
 .DS_Store
 /example/node_modules/
 /example/public/index.js
+
+/*.tgz

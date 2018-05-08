@@ -1,0 +1,11 @@
+# source files
+**/*-gitignore/**
+/.*
+/*.tgz
+/*.lock
+/*.js
+/*.json
+/example
+/task
+/test
+/AUTHORS
